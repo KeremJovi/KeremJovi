@@ -1,12 +1,12 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welbert-fernandes/)](https://www.linkedin.com/in/welbert-fernandes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/kerem-jovielly/)](https://www.linkedin.com/mwlite/in/kerem-jovielly/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:keremjovielly@gmail.com)](mailto:keremjovielly@gmail.com)
 
 ### Hi there 👋
 
 <div>
-  <a href="https://github.com/welbertFC">
+  <a href="https://github.com/KeremJovi">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremJovi&show_icons=true&count_private=true&theme=bear"/>
-     <a href="https://github.com/welbertFC">
+     <a href="https://github.com/KeremJovi">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremJovi&layout=compact&theme=bear"/>
 <div>
 
@@ -14,9 +14,9 @@
   Meus trabalhos:
   
   <div>
- <a href="https://github.com/welbertFC/APIGamesRating">
+ <a href="https://github.com/KeremJovi/letmeask">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=KeremJovi&repo=letmeask&theme=bear"/>
-    <a href="https://github.com/welbertFC/text_analysis_web">
+    <a href="https://github.com/KeremJovi/Podcastr">
    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=KeremJovi&repo=Podcastr&theme=bear"/>
  <div>
    
