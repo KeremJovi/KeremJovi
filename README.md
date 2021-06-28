@@ -9,7 +9,7 @@ My name is Kerem and I am joining the Front-end development area using React. He
   <a href="https://github.com/KeremJovi">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremJovi&show_icons=true&count_private=true&theme=bear"/>
      <a href="https://github.com/KeremJovi">
-    <img height="150" align="center" margin-left="16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremJovi&layout=compact&theme=bear"/>
+    <img height="150" align="center" margin-left="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremJovi&layout=compact&theme=bear"/>
 <div>
 
   
