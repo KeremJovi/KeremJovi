@@ -5,9 +5,9 @@
 
 <div>
   <a href="https://github.com/KeremJovi">
-    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremJovi&show_icons=true&count_private=true&theme=bear"/>
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremJovi&show_icons=true&count_private=true&theme=bear"/>
      <a href="https://github.com/KeremJovi">
-    <img height="170" align="center" margin -left="16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremJovi&layout=compact&theme=bear"/>
+    <img height="150" align="center" margin -left="16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremJovi&layout=compact&theme=bear"/>
 <div>
 
   
