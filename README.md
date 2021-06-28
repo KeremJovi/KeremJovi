@@ -1,13 +1,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/kerem-jovielly/)](https://www.linkedin.com/mwlite/in/kerem-jovielly/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:keremjovielly@gmail.com)](mailto:keremjovielly@gmail.com)
 
-### Hi there 👋
+### Hey guys,
+
+My name is Kerem and I am joining the Front-end development area using React. Here are some of the projects I'm studying and developing. I am available for contact. Thank you very much in advance !
 
 <div>
   <a href="https://github.com/KeremJovi">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremJovi&show_icons=true&count_private=true&theme=bear"/>
      <a href="https://github.com/KeremJovi">
-    <img height="150" align="center" margin -left="16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremJovi&layout=compact&theme=bear"/>
+    <img height="150" align="center" margin-left="16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremJovi&layout=compact&theme=bear"/>
 <div>
 
   
