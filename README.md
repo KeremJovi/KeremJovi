@@ -5,7 +5,7 @@
 
 My name is Kerem and I am joining the Front-end development area using React. Here are some of the projects I'm studying and developing. I am available for contact. Thank you very much in advance !
 
-<div>
+<div style={display: 'flex', justifyContent: 'space-between'}> 
   <a href="https://github.com/KeremJovi">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremJovi&show_icons=true&count_private=true&theme=bear"/>
      <a href="https://github.com/KeremJovi">
