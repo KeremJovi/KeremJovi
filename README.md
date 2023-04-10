@@ -16,12 +16,10 @@ My name is Kerem and I am joining the Front-end development area using React. He
   Meus trabalhos:
   
   <div>
- <a href="https://github.com/KeremJovi/letmeask">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=KeremJovi&repo=letmeask&theme=bear"/>
-    <a href="https://github.com/KeremJovi/Podcastr">
-   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=KeremJovi&repo=Podcastr&theme=bear"/>
-      <a href="https://github.com/KeremJovi/upMiner">
-   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=KeremJovi&repo=upMiner&theme=bear"/>
+ <a href="https://github.com/welbertFC/APIGamesRating">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=welbertFC&repo=APIGamesRating&theme=vue-dark"/>
+    <a href="https://github.com/welbertFC/text_analysis_web">
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=welbertFC&repo=text_analysis_web&theme=vue-dark"/>
  <div>
    
    Minhas habilidades:
