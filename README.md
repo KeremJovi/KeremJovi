@@ -7,20 +7,25 @@ My name is Kerem and I am joining the Front-end development area using React. He
 
 <div style={display: 'flex', justifyContent: 'space-between'}> 
   <a href="https://github.com/KeremJovi">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremJovi&show_icons=true&count_private=true&theme=bear"/>
-     <a href="https://github.com/KeremJovi">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremJovi&layout=compact&theme=bear"/>
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremJovi&show_icons=true&count_private=true&theme=vue-dark"/>
 <div>
-
+  
+  
+  
+  
   
   Meus trabalhos:
   
   <div>
- <a href="https://github.com/welbertFC/APIGamesRating">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=welbertFC&repo=APIGamesRating&theme=vue-dark"/>
-    <a href="https://github.com/welbertFC/text_analysis_web">
-   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=welbertFC&repo=text_analysis_web&theme=vue-dark"/>
- <div>
+  <a href="https://github.com/KeremJovi/letmeask">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=KeremJovi&repo=letmeask&theme=vue-dark"/>
+  <a href="https://github.com/KeremJovi/movie-catalog-front-end">
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=KeremJovi&repo=movie-catalog-front-end&theme=vue-dark"/>
+  <a href="https://github.com/KeremJovi/movie-catalog">
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=KeremJovi&repo=movie-catalog&theme=vue-dark"/>
+  <div>
+    
+    
    
    Minhas habilidades:
    
